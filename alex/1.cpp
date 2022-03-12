@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    string str = "yellow blue green";
+    string str = "yellow";
     reverse(str.begin(), str.end());
 
     cout << str;
